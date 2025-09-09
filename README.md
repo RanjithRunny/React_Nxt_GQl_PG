@@ -52,4 +52,15 @@ npm run dev
 
 Frontend runs on http://localhost:3000
 
+
+🔮 Roadmap
+- Add authentication (JWT + bcrypt)
+- Add Docker setup
+- Deploy backend with AWS Lambda
+- Deploy frontend with Vercel or AWS Amplify
+- Setup CI/CD with Jenkins + GitHub Actions
+👨‍💻 Author
+Your Name (@RanjithRunny)
+
 Backend runs on http://localhost:4001/graphql
+
