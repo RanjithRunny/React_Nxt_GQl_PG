@@ -51,7 +51,7 @@ cd fe
 npm run dev
 
 Frontend runs on http://localhost:3000
-
+Backend runs on http://localhost:4001/graphql
 
 🔮 Roadmap
 - Add authentication (JWT + bcrypt)
@@ -60,7 +60,8 @@ Frontend runs on http://localhost:3000
 - Deploy frontend with Vercel or AWS Amplify
 - Setup CI/CD with Jenkins + GitHub Actions
 👨‍💻 Author
-Your Name (@RanjithRunny)
+@RanjithRunny
 
-Backend runs on http://localhost:4001/graphql
+
+
 
